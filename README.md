@@ -6,6 +6,7 @@ We are going to build a simple landing page website.
 
 - **Project Name**: Landing Page
 - **Target website**: https://html.creativegigstf.com/charles/?storefront=envato-elements
+- **Repository URL**: https://github.com/xgovernor/landing-page
 
 # Technologies
 
